@@ -1,0 +1,200 @@
+------------------------
+Core Python Concepts:
+------------------------
+
+***********************************
+1.Python Fundamentals (Must-Have)
+************************************
+Language Basics:
+
+Variables & naming conventions
+Keywords & identifiers
+Indentation & code blocks
+Comments & docstrings
+
+Built-in Data Types:
+
+int, float, bool
+str
+list, tuple
+set
+dict
+
+Operators:
+
+Arithmetic, comparison
+Logical (and, or, not)
+Bitwise
+Membership (in)
+Identity (is)
+
+****************************
+2.Control Flow & Iteration
+****************************
+
+if / elif / else
+for, while
+break, continue, pass
+match-case (Python 3.10+)
+
+*****************************
+3.Functions (VERY Important)
+*****************************
+
+Function definition & return
+Default & keyword arguments
+*args, **kwargs
+Lambda functions
+Recursion
+Docstrings & type hints
+
+************************************
+4.Core Data Structures (Deep Dive)
+************************************
+
+Lists & Tuples:
+
+Indexing, slicing
+Mutability vs immutability
+Comprehensions
+Nested structures
+
+Dictionaries & Sets:
+
+Hashing concept
+Key-value operations
+Set algebra operations
+
+**********************************
+5.Exception Handling & Debugging
+**********************************
+
+try / except / else / finally
+Custom exceptions
+Tracebacks
+Assertions
+
+*******************************
+6.Modules, Packages & Imports
+*******************************
+
+import, from ... import
+__name__ == "__main__"
+__init__.py
+Virtual environments
+pip, venv
+
+
+************************************
+7.Object-Oriented Programming (OOP)
+************************************
+
+Classes & objects
+__init__, self
+Inheritance
+Polymorphism
+Encapsulation
+Abstract base classes
+dataclasses
+
+
+*****************************************************
+8.Python Memory Model & Performance ⭐ (Important)
+*****************************************************
+
+Stack vs Heap
+Reference counting
+Garbage collection
+Object mutability
+Global Interpreter Lock (GIL)
+Shallow vs deep copy
+
+**********************************
+9.File Handling & Serialization
+**********************************
+
+open() modes
+CSV, JSON
+pickle
+Context managers (with)
+
+
+*********************************************
+10.Iterators, Generators & Lazy Evaluation ⭐
+*********************************************
+
+Iterator protocol (__iter__, __next__)
+yield
+Generator expressions
+Memory-efficient processing
+
+*************************************
+11.Functional Programming Concepts
+*************************************
+
+map, filter, reduce
+Higher-order functions
+Immutability
+Closures
+
+**************************************
+12. Decorators & Context Managers ⭐
+**************************************
+
+Function decorators
+Class decorators
+@wraps
+__enter__, __exit__
+contextlib
+
+*************************************
+13.Concurrency & Parallelism ⭐⭐
+*************************************
+
+Threading vs Multiprocessing
+asyncio
+Event loop
+concurrent.futures
+CPU-bound vs IO-bound tasks
+
+**************************************
+14.Standard Library (Very Important)
+**************************************
+
+os, sys, pathlib
+logging
+datetime, time
+collections
+itertools
+functools
+subprocess
+
+**************************
+15.Testing & Code Quality
+**************************
+
+unittest, pytest
+Logging best practices
+Type hints & mypy
+Linting (flake8, black)
+
+*****************************
+16.Pythonic Best Practices ⭐
+*****************************
+
+PEP8
+Idiomatic Python
+EAFP vs LBYL
+Readability > Cleverness
+
+
+
+
+
+--- important for Data Processing;
+
+✅ Memory model & GIL
+✅ Generators & iterators
+✅ Concurrency & asyncio
+✅ Decorators & context managers
+✅ Standard library mastery
